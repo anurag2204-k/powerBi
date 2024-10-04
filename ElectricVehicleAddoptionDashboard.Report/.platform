@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "ElectricVehicleAddoptionDashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "b1d0c047-d456-43b1-bc79-22bc95928f89"
+  }
+}
